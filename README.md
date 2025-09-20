@@ -14,7 +14,7 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 
 - 🌱 I’m currently learning the technical differences in developing the controls for android mobile as compared to PC.
 - 👯 I’m looking for an internship for my Internship Work Study Program (IWSP) next year, starting in May!  
 
-## 🎮 Game Showcase  
+## 🎮 Game Showcase
 
 <table>
   <tr>
@@ -37,4 +37,25 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 
       <br><b>Unshackled</b>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=THrlbhBIuq0&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=2">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/AmbersLastLight_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Amber's Last Light</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=uux8_BSbW14&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=8">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Frosties_Thumbnail.jpg?raw=true" width="250">
+      </a>
+      <br><b>Ship Strikers</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=cCeKFVCbCqY&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/GiggleGauntlet_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Giggle Gauntlet</b>
+    </td>
+  </tr>
 </table>
+
