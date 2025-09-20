@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github.com/benjaminlrj/benjaminlrj/blob/0c2dd54ccd9e08fe1460284bca3f3cc954a2a3c2/Assets/gorgeous_jumping.gif?raw=true" width="300" />
 
-I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 student in DigiPen studying CS in Interactive Media and Game Development 🏫. I love exploring all things design and tech!
+I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in DigiPen studying CS in Interactive Media and Game Development 🏫. I love exploring all things design and tech!
 
 - 🔭 I’m currently working on my DigiPen Game Project 3 titled "Last Frame", a PC-mobile cross-platform horror game that utilizes gyroscoping for looking around in the mobile version!
 - 🌱 I’m currently learning the technical differences in developing the controls for android mobile as compared to PC.
