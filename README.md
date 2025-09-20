@@ -6,7 +6,7 @@
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://yourname.itch.io/)
 
 
-<img align="right" src="https://github.com/benjaminlrj/benjaminlrj/blob/0c2dd54ccd9e08fe1460284bca3f3cc954a2a3c2/Assets/gorgeous_jumping.gif?raw=true" width="300" />
+<img align="right" src="https://github.com/benjaminlrj/benjaminlrj/blob/e73c8afedab2d09e2c5f6230ea33848798bb6b17/Assets/gorgeous.gif?raw=true" width="300" />
 
 I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in DigiPen studying CS in Interactive Media and Game Development 🏫. I love exploring all things design and tech!
 
