@@ -16,19 +16,25 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 
 
 ## 🎮 Game Showcase  
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6" style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Slimey_Trailer_Thumbnail.jpg?raw=true" width="250"><br>
-    <b>Slimey</b>
-  </a>
-  
-  <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s" style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/ShroomyDoomy_Thumbnail.png?raw=true" width="250"><br>
-    <b>Shroomy Doomy</b>
-  </a>
-  
-  <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3" style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Unshackled_Thumbnail.png?raw=true" width="250"><br>
-    <b>Unshackled</b>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Slimey_Trailer_Thumbnail.jpg?raw=true" width="250">
+      </a>
+      <br><b>Slimey</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/ShroomyDoomy_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Shroomy Doomy</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Unshackled_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Unshackled</b>
+    </td>
+  </tr>
+</table>
