@@ -18,17 +18,17 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" width="250"><br>
+    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/61b605c750bf5e9b02a671e8989ec229e86c69c6/Assets/Slimey_Trailer_Thumbnail.jpg" width="250"><br>
     <sub><b>Slimey</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" width="250"><br>
+    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/61b605c750bf5e9b02a671e8989ec229e86c69c6/Assets/ShroomyDoomy_Thumbnail.png" width="250"><br>
     <sub><b>Shroomy Doomy</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg" width="250"><br>
+    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/61b605c750bf5e9b02a671e8989ec229e86c69c6/Assets/Unshackled_Thumbnail.png" width="250"><br>
     <sub><b>Unshackled</b></sub>
   </a>
 </p>
