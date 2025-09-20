@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ben-lrj)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/c/@benjaminlrj)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@benjaminlrj)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:2301322@sit.singaporetech.edu.sg)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://yourname.itch.io/)
 
