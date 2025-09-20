@@ -17,18 +17,18 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 
 ## 🎮 Game Showcase  
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
-    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/61b605c750bf5e9b02a671e8989ec229e86c69c6/Assets/Slimey_Trailer_Thumbnail.jpg" width="250">
-    <div><b>Slimey</b></div>
+  <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6" style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Slimey_Trailer_Thumbnail.jpg?raw=true" width="250"><br>
+    <b>Slimey</b>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s">
-    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/61b605c750bf5e9b02a671e8989ec229e86c69c6/Assets/ShroomyDoomy_Thumbnail.png" width="250">
-    <div><b>Shroomy Doomy</b></div>
+  
+  <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s" style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/ShroomyDoomy_Thumbnail.png?raw=true" width="250"><br>
+    <b>Shroomy Doomy</b>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3">
-    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/61b605c750bf5e9b02a671e8989ec229e86c69c6/Assets/Unshackled_Thumbnail.png" width="250">
-    <div><b>Unshackled</b></div>
+  
+  <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3" style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Unshackled_Thumbnail.png?raw=true" width="250"><br>
+    <b>Unshackled</b>
   </a>
 </p>
