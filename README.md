@@ -59,3 +59,22 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
   </tr>
 </table>
 
+## 🧪 Tech Demos
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=5_gaqJpCSwQ&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=1">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/SensingFear_Tech_Demo_Thumbnail.jpg?raw=true" width="250">
+      </a>
+      <br><b>Sensing Fear</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=B7KnT_SCvV4&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=4">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/AIResumeCurator_Thumbnail.jpg?raw=true" width="250">
+      </a>
+      <br><b>AI Resume Curator</b>
+    </td>
+  </tr>
+</table>
+
