@@ -1,5 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<p align="right">
+  <img src="https://github.com/benjaminlrj/benjaminlrj/blob/0c2dd54ccd9e08fe1460284bca3f3cc954a2a3c2/Assets/gorgeous_jumping.gif?raw=true" width="400px">
+</p>
 
 I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 student in DigiPen studying CS in Interactive Media and Game Development 🏫. I love exploring all things design and tech!
 
