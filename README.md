@@ -16,42 +16,46 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
 
 ## 🎮 Game Showcase
 
-<p align="center">
-  <span>
-    <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
-      <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Slimey_Trailer_Thumbnail.jpg?raw=true" width="250" />
-    </a><br><sub><b>Slimey</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s">
-      <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/ShroomyDoomy_Thumbnail.png?raw=true" width="250" />
-    </a><br><sub><b>Shroomy Doomy</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3">
-      <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Unshackled_Thumbnail.png?raw=true" width="250" />
-    </a><br><sub><b>Unshackled</b></sub>
-  </span>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Slimey_Trailer_Thumbnail.jpg?raw=true" width="250">
+      </a>
+      <br><b>Slimey</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=0rmqW_Kb_tw&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=5&t=9s">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/ShroomyDoomy_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Shroomy Doomy</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=IYML-TccWYo&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=3">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Unshackled_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Unshackled</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=THrlbhBIuq0&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=2">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/AmbersLastLight_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Amber's Last Light</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=uux8_BSbW14&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=8">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Frosties_Thumbnail.jpg?raw=true" width="250">
+      </a>
+      <br><b>Ship Strikers</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=cCeKFVCbCqY&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/GiggleGauntlet_Thumbnail.png?raw=true" width="250">
+      </a>
+      <br><b>Giggle Gauntlet</b>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <span>
-    <a href="https://www.youtube.com/watch?v=THrlbhBIuq0&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=2">
-      <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/AmbersLastLight_Thumbnail.png?raw=true" width="250" />
-    </a><br><sub><b>Amber's Last Light</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <a href="https://www.youtube.com/watch?v=uux8_BSbW14&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=8">
-      <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/Frosties_Thumbnail.jpg?raw=true" width="250" />
-    </a><br><sub><b>Ship Strikers</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <a href="https://www.youtube.com/watch?v=cCeKFVCbCqY&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
-      <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/GiggleGauntlet_Thumbnail.png?raw=true" width="250" />
-    </a><br><sub><b>Giggle Gauntlet</b></sub>
-  </span>
-</p>
