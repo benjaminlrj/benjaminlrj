@@ -5,7 +5,7 @@
 [![itch.io](https://img.shields.io/badge/itch.io-Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://yourname.itch.io/)
 
 
-<img align="right" src="https://github.com/benjaminlrj/benjaminlrj/blob/0c2dd54ccd9e08fe1460284bca3f3cc954a2a3c2/Assets/gorgeous_jumping.gif?raw=true" width="200" />
+<img align="right" src="https://github.com/benjaminlrj/benjaminlrj/blob/0c2dd54ccd9e08fe1460284bca3f3cc954a2a3c2/Assets/gorgeous_jumping.gif?raw=true" width="300" />
 
 I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently a Year 3 student in DigiPen studying CS in Interactive Media and Game Development 🏫. I love exploring all things design and tech!
 
