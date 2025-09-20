@@ -14,7 +14,7 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
 - 🌱 I’m currently learning the technical differences in developing the controls for android mobile as compared to PC.
 - 👯 I’m looking for an internship for my Internship Work Study Program (IWSP) next year, starting in May!  
 
-## 🎮 Game Showcase
+## 🎮 Game Showcases
 
 <table>
   <tr>
