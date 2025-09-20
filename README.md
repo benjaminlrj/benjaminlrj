@@ -62,6 +62,7 @@ Play my games here! -> [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?
 
 ## 🧪 Tech Demos
 
+Try my demos here! -> [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://benjaminlrj.itch.io/)
 <table>
   <tr>
     <td align="center">
