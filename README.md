@@ -1,10 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[📄 View My Resume](https://github.com/benjaminlrj/benjaminlrj/blob/58728b4ea759b447693b4f730e634766b56df511/Assets/Ben%20Resume%202025%20Generic.pdf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ben-lrj)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@benjaminlrj)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:benjaminlrj.18@gmail.com)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://benjaminlrj.itch.io/)
-
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/benjaminlrj/benjaminlrj/blob/58728b4ea759b447693b4f730e634766b56df511/Assets/Ben%20Resume%202025%20Generic.pdf)
 
 <img align="right" src="https://github.com/benjaminlrj/benjaminlrj/blob/e73c8afedab2d09e2c5f6230ea33848798bb6b17/Assets/gorgeous.gif?raw=true" width="300" />
 
