@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ben-lrj)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@benjaminlrj)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:2301322@sit.singaporetech.edu.sg)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:benjaminlrj.18@gmail.com)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://benjaminlrj.itch.io/)
 
 
