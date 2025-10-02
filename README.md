@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+[📄 View My Resume](https://github.com/benjaminlrj/benjaminlrj/blob/58728b4ea759b447693b4f730e634766b56df511/Assets/Ben%20Resume%202025%20Generic.pdf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ben-lrj)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@benjaminlrj)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:benjaminlrj.18@gmail.com)
