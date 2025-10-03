@@ -15,7 +15,7 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
 
 ## 🎮 Game Showcases
 
-Watch my projects gameplay on YouYube below!
+Watch some gameplay of my projects below! vvv
 <table>
   <tr>
     <td align="center">
@@ -59,7 +59,7 @@ Watch my projects gameplay on YouYube below!
   </tr>
 </table>
 
-Play some of my games here! -> [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://benjaminlrj.itch.io/)
+Try them out here! -> [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://benjaminlrj.itch.io/)
 
 ## 🧪 Tech Demos
 
