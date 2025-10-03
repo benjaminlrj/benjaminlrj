@@ -58,6 +58,7 @@ Watch my projects gameplay on YouYube below!
     </td>
   </tr>
 </table>
+
 Play some of my games here! -> [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://benjaminlrj.itch.io/)
 
 ## 🧪 Tech Demos
