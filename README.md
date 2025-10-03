@@ -15,7 +15,7 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
 
 ## 🎮 Game Showcases
 
-Watch some gameplay of my projects below! vvv
+Watch some gameplay of my projects below!
 <table>
   <tr>
     <td align="center">
