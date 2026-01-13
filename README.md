@@ -17,6 +17,14 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
 
 Watch some gameplay of my projects below!
 <table>
+    <tr>
+    <td align="center">
+      <a href="https://youtu.be/pkmnyVYApYE?si=h-mh6DSFReUkEQMd">
+        <img src="https://img.youtube.com/vi/pkmnyVYApYE/hqdefault.jpg" width="250">
+      </a>
+      <br><b>Last Frame</b>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=BO1fiwwXRZI&list=PLyj0Z4ENDkJQfRBMRu-osOLVpElsTp6NE&index=6">
