@@ -20,7 +20,7 @@ Watch some gameplay of my projects below!
     <tr>
     <td align="center">
       <a href="https://youtu.be/pkmnyVYApYE?si=h-mh6DSFReUkEQMd">
-        <img src="https://img.youtube.com/vi/pkmnyVYApYE/hqdefault.jpg" width="250">
+        <img src="https://github.com/benjaminlrj/benjaminlrj/blob/main/Assets/LastFrame_Thumbnail.jpg?raw=true" width="250">
       </a>
       <br><b>Last Frame</b>
     </td>
