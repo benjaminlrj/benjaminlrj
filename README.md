@@ -11,7 +11,7 @@ I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 3 in
 
 - 🔭 I’m currently working on my DigiPen Game Project 3 titled "Last Frame", a PC-mobile cross-platform horror game that utilizes gyroscoping for looking around in the mobile version!
 - 🌱 I’m currently learning the technical differences in developing the controls for android mobile as compared to PC.
-- 👯 I’m looking for an internship for my Internship Work Study Program (IWSP) this year, starting April 2026!  
+- 👯 I will be starting my Internship Work Study Program (IWSP) this year, starting 20 April 2026!  
 
 ## 🎮 Game Showcases
 
