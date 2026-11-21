@@ -9,9 +9,9 @@
 
 I am Benjamin Lau Rey Jun 😃. I am from Singapore, and I'm currently Year 4 in DigiPen studying CS in Interactive Media and Game Development 🏫. I love exploring all things design and tech!
 
-- 🔭 I’m currently working on my DigiPen Game Project 3 titled "Last Frame", a PC-mobile cross-platform horror game that utilizes gyroscoping for looking around in the mobile version!
-- 🌱 I’m currently learning the technical differences in developing the controls for android mobile as compared to PC.
-- 👯 I will be starting my Internship Work Study Program (IWSP) this year, starting 20 April 2026!  
+- 🔭 I’m currently an intern at Ubisoft Singapore as an AI & 3Cs Game Designer for Skull & Bones, My internship ends on 19 Apr 2027~
+- 🌱 My most recent game project was a school project titled "Last Frame", a PC-mobile cross-platform horror game that utilizes gyroscoping for looking around in mobile!
+- 👯 I am currently exploring the possibilities in utilizing AI to rapidly prototype projects~
 
 ## 🎮 Game Showcases
 
